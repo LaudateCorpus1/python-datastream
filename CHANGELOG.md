@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/googleapis/python-datastream/compare/v0.3.1...v0.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#58](https://github.com/googleapis/python-datastream/issues/58)) ([88cf10a](https://github.com/googleapis/python-datastream/commit/88cf10a130116cbc199d6279b00959ad40946671))
+
 ### [0.3.1](https://www.github.com/googleapis/python-datastream/compare/v0.3.0...v0.3.1) (2021-11-01)
 
 
